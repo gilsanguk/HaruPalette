@@ -37,7 +37,7 @@ We welcome contributions of all kinds, from bug fixes to new features. Please ma
         ├── main
         │   ├── java
         │   │   └── com
-        │   │       └── ssafy
+        │   │       └── example
         │   │           └── palette
         │   │               ├── PaletteApplication.java
         │   │               ├── config
@@ -53,7 +53,7 @@ We welcome contributions of all kinds, from bug fixes to new features. Please ma
         └── test
             └── java
                 └── com
-                    └── ssafy
+                    └── example
                         └── palette
                             └── PaletteApplicationTests.java
 ```
