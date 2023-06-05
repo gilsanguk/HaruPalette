@@ -33,7 +33,9 @@
     + [폴더 구조](#폴더-구조)
 - [프로젝트 정보](#프로젝트-정보)
     + [기술 스택](#기술-스택)
+  * [시스템 아키텍쳐](#시스템-아키텍쳐)
   * [구현 목록](#구현-목록)
+  
 - [프로젝트 결과물](#프로젝트-결과물)
   * [메인페이지](#메인페이지)
   * [일기 작성 페이지](#일기-작성-페이지)
@@ -44,15 +46,12 @@
   * [하루팔레트 테마](#하루팔레트-테마)
   * [반응형 웹](#반응형-웹)
   * [SSR & SEO 최적화로 사용자 경험 개선](#SSR-&-SEO-최적화로-사용자-경험-개선)
-  * [시스템 아키텍쳐](#시스템-아키텍쳐)
+ 
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # 프로젝트 정보
-
-## 시스템 아키텍쳐
-![최종 아키텍처-페이지-1 (3)](https://user-images.githubusercontent.com/55950992/230535772-3049f848-a2dd-48a3-8e24-da6fba72b8ad.png)
 
 ### 기술 스택
 <p align="center">
@@ -83,6 +82,8 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
+## 시스템 아키텍쳐
+![최종 아키텍처-페이지-1 (3)](https://user-images.githubusercontent.com/55950992/230535772-3049f848-a2dd-48a3-8e24-da6fba72b8ad.png)
 
 ## 구현 목록
 
